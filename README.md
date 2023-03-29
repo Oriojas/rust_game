@@ -1,2 +1,2 @@
 # rust_game
-Test a rusy_basic game
+Test a rust_basic game
