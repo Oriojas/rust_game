@@ -1,0 +1,90 @@
+OPT_LEVEL = Some("0")
+TARGET = Some("x86_64-unknown-linux-gnu")
+HOST = Some("x86_64-unknown-linux-gnu")
+cargo:rerun-if-env-changed=CXX_x86_64-unknown-linux-gnu
+CXX_x86_64-unknown-linux-gnu = None
+cargo:rerun-if-env-changed=CXX_x86_64_unknown_linux_gnu
+CXX_x86_64_unknown_linux_gnu = None
+cargo:rerun-if-env-changed=HOST_CXX
+HOST_CXX = None
+cargo:rerun-if-env-changed=CXX
+CXX = None
+cargo:rerun-if-env-changed=CXXFLAGS_x86_64-unknown-linux-gnu
+CXXFLAGS_x86_64-unknown-linux-gnu = None
+cargo:rerun-if-env-changed=CXXFLAGS_x86_64_unknown_linux_gnu
+CXXFLAGS_x86_64_unknown_linux_gnu = None
+cargo:rerun-if-env-changed=HOST_CXXFLAGS
+HOST_CXXFLAGS = None
+cargo:rerun-if-env-changed=CXXFLAGS
+CXXFLAGS = None
+cargo:rerun-if-env-changed=CRATE_CC_NO_DEFAULTS
+CRATE_CC_NO_DEFAULTS = None
+DEBUG = Some("true")
+CARGO_CFG_TARGET_FEATURE = Some("fxsr,sse,sse2")
+cargo:rerun-if-env-changed=CXX_x86_64-unknown-linux-gnu
+CXX_x86_64-unknown-linux-gnu = None
+cargo:rerun-if-env-changed=CXX_x86_64_unknown_linux_gnu
+CXX_x86_64_unknown_linux_gnu = None
+cargo:rerun-if-env-changed=HOST_CXX
+HOST_CXX = None
+cargo:rerun-if-env-changed=CXX
+CXX = None
+cargo:rerun-if-env-changed=CXXFLAGS_x86_64-unknown-linux-gnu
+CXXFLAGS_x86_64-unknown-linux-gnu = None
+cargo:rerun-if-env-changed=CXXFLAGS_x86_64_unknown_linux_gnu
+CXXFLAGS_x86_64_unknown_linux_gnu = None
+cargo:rerun-if-env-changed=HOST_CXXFLAGS
+HOST_CXXFLAGS = None
+cargo:rerun-if-env-changed=CXXFLAGS
+CXXFLAGS = None
+cargo:rerun-if-env-changed=CRATE_CC_NO_DEFAULTS
+CRATE_CC_NO_DEFAULTS = None
+CARGO_CFG_TARGET_FEATURE = Some("fxsr,sse,sse2")
+running: "c++" "-O0" "-ffunction-sections" "-fdata-sections" "-fPIC" "-gdwarf-4" "-fno-omit-frame-pointer" "-m64" "-Wall" "-Wextra" "-DSPIRV_CROSS_EXCEPTIONS_TO_ASSERTIONS" "-DSPIRV_CROSS_WRAPPER_NO_EXCEPTIONS" "-DSPIRV_CROSS_WRAPPER_GLSL" "-std=c++14" "-o" "/home/oscar/GitHub/rust_game/rust-pong/target/debug/build/spirv_cross-d302ddc85b939b32/out/src/wrapper.o" "-c" "src/wrapper.cpp"
+cargo:warning=src/wrapper.cpp:2: warning: ignoring ‘#pragma warning ’ [-Wunknown-pragmas]
+cargo:warning=    2 | #pragma warning(disable : 4996 4101)
+cargo:warning=      | 
+running: "c++" "-O0" "-ffunction-sections" "-fdata-sections" "-fPIC" "-gdwarf-4" "-fno-omit-frame-pointer" "-m64" "-Wall" "-Wextra" "-DSPIRV_CROSS_EXCEPTIONS_TO_ASSERTIONS" "-DSPIRV_CROSS_WRAPPER_NO_EXCEPTIONS" "-DSPIRV_CROSS_WRAPPER_GLSL" "-std=c++14" "-o" "/home/oscar/GitHub/rust_game/rust-pong/target/debug/build/spirv_cross-d302ddc85b939b32/out/src/vendor/SPIRV-Cross/spirv_cfg.o" "-c" "src/vendor/SPIRV-Cross/spirv_cfg.cpp"
+running: "c++" "-O0" "-ffunction-sections" "-fdata-sections" "-fPIC" "-gdwarf-4" "-fno-omit-frame-pointer" "-m64" "-Wall" "-Wextra" "-DSPIRV_CROSS_EXCEPTIONS_TO_ASSERTIONS" "-DSPIRV_CROSS_WRAPPER_NO_EXCEPTIONS" "-DSPIRV_CROSS_WRAPPER_GLSL" "-std=c++14" "-o" "/home/oscar/GitHub/rust_game/rust-pong/target/debug/build/spirv_cross-d302ddc85b939b32/out/src/vendor/SPIRV-Cross/spirv_cross.o" "-c" "src/vendor/SPIRV-Cross/spirv_cross.cpp"
+exit status: 0
+running: "c++" "-O0" "-ffunction-sections" "-fdata-sections" "-fPIC" "-gdwarf-4" "-fno-omit-frame-pointer" "-m64" "-Wall" "-Wextra" "-DSPIRV_CROSS_EXCEPTIONS_TO_ASSERTIONS" "-DSPIRV_CROSS_WRAPPER_NO_EXCEPTIONS" "-DSPIRV_CROSS_WRAPPER_GLSL" "-std=c++14" "-o" "/home/oscar/GitHub/rust_game/rust-pong/target/debug/build/spirv_cross-d302ddc85b939b32/out/src/vendor/SPIRV-Cross/spirv_cross_parsed_ir.o" "-c" "src/vendor/SPIRV-Cross/spirv_cross_parsed_ir.cpp"
+exit status: 0
+running: "c++" "-O0" "-ffunction-sections" "-fdata-sections" "-fPIC" "-gdwarf-4" "-fno-omit-frame-pointer" "-m64" "-Wall" "-Wextra" "-DSPIRV_CROSS_EXCEPTIONS_TO_ASSERTIONS" "-DSPIRV_CROSS_WRAPPER_NO_EXCEPTIONS" "-DSPIRV_CROSS_WRAPPER_GLSL" "-std=c++14" "-o" "/home/oscar/GitHub/rust_game/rust-pong/target/debug/build/spirv_cross-d302ddc85b939b32/out/src/vendor/SPIRV-Cross/spirv_parser.o" "-c" "src/vendor/SPIRV-Cross/spirv_parser.cpp"
+running: "c++" "-O0" "-ffunction-sections" "-fdata-sections" "-fPIC" "-gdwarf-4" "-fno-omit-frame-pointer" "-m64" "-Wall" "-Wextra" "-DSPIRV_CROSS_EXCEPTIONS_TO_ASSERTIONS" "-DSPIRV_CROSS_WRAPPER_NO_EXCEPTIONS" "-DSPIRV_CROSS_WRAPPER_GLSL" "-std=c++14" "-o" "/home/oscar/GitHub/rust_game/rust-pong/target/debug/build/spirv_cross-d302ddc85b939b32/out/src/vendor/SPIRV-Cross/spirv_cross_util.o" "-c" "src/vendor/SPIRV-Cross/spirv_cross_util.cpp"
+exit status: 0
+running: "c++" "-O0" "-ffunction-sections" "-fdata-sections" "-fPIC" "-gdwarf-4" "-fno-omit-frame-pointer" "-m64" "-Wall" "-Wextra" "-DSPIRV_CROSS_EXCEPTIONS_TO_ASSERTIONS" "-DSPIRV_CROSS_WRAPPER_NO_EXCEPTIONS" "-DSPIRV_CROSS_WRAPPER_GLSL" "-std=c++14" "-o" "/home/oscar/GitHub/rust_game/rust-pong/target/debug/build/spirv_cross-d302ddc85b939b32/out/src/vendor/SPIRV-Cross/spirv_glsl.o" "-c" "src/vendor/SPIRV-Cross/spirv_glsl.cpp"
+exit status: 0
+exit status: 0
+exit status: 0
+exit status: 0
+cargo:rerun-if-env-changed=AR_x86_64-unknown-linux-gnu
+AR_x86_64-unknown-linux-gnu = None
+cargo:rerun-if-env-changed=AR_x86_64_unknown_linux_gnu
+AR_x86_64_unknown_linux_gnu = None
+cargo:rerun-if-env-changed=HOST_AR
+HOST_AR = None
+cargo:rerun-if-env-changed=AR
+AR = None
+cargo:rerun-if-env-changed=ARFLAGS_x86_64-unknown-linux-gnu
+ARFLAGS_x86_64-unknown-linux-gnu = None
+cargo:rerun-if-env-changed=ARFLAGS_x86_64_unknown_linux_gnu
+ARFLAGS_x86_64_unknown_linux_gnu = None
+cargo:rerun-if-env-changed=HOST_ARFLAGS
+HOST_ARFLAGS = None
+cargo:rerun-if-env-changed=ARFLAGS
+ARFLAGS = None
+running: "ar" "cq" "/home/oscar/GitHub/rust_game/rust-pong/target/debug/build/spirv_cross-d302ddc85b939b32/out/libspirv-cross-rust-wrapper.a" "/home/oscar/GitHub/rust_game/rust-pong/target/debug/build/spirv_cross-d302ddc85b939b32/out/src/wrapper.o" "/home/oscar/GitHub/rust_game/rust-pong/target/debug/build/spirv_cross-d302ddc85b939b32/out/src/vendor/SPIRV-Cross/spirv_cfg.o" "/home/oscar/GitHub/rust_game/rust-pong/target/debug/build/spirv_cross-d302ddc85b939b32/out/src/vendor/SPIRV-Cross/spirv_cross.o" "/home/oscar/GitHub/rust_game/rust-pong/target/debug/build/spirv_cross-d302ddc85b939b32/out/src/vendor/SPIRV-Cross/spirv_cross_parsed_ir.o" "/home/oscar/GitHub/rust_game/rust-pong/target/debug/build/spirv_cross-d302ddc85b939b32/out/src/vendor/SPIRV-Cross/spirv_parser.o" "/home/oscar/GitHub/rust_game/rust-pong/target/debug/build/spirv_cross-d302ddc85b939b32/out/src/vendor/SPIRV-Cross/spirv_cross_util.o" "/home/oscar/GitHub/rust_game/rust-pong/target/debug/build/spirv_cross-d302ddc85b939b32/out/src/vendor/SPIRV-Cross/spirv_glsl.o"
+exit status: 0
+running: "ar" "s" "/home/oscar/GitHub/rust_game/rust-pong/target/debug/build/spirv_cross-d302ddc85b939b32/out/libspirv-cross-rust-wrapper.a"
+exit status: 0
+cargo:rustc-link-lib=static=spirv-cross-rust-wrapper
+cargo:rustc-link-search=native=/home/oscar/GitHub/rust_game/rust-pong/target/debug/build/spirv_cross-d302ddc85b939b32/out
+cargo:rerun-if-env-changed=CXXSTDLIB_x86_64-unknown-linux-gnu
+CXXSTDLIB_x86_64-unknown-linux-gnu = None
+cargo:rerun-if-env-changed=CXXSTDLIB_x86_64_unknown_linux_gnu
+CXXSTDLIB_x86_64_unknown_linux_gnu = None
+cargo:rerun-if-env-changed=HOST_CXXSTDLIB
+HOST_CXXSTDLIB = None
+cargo:rerun-if-env-changed=CXXSTDLIB
+CXXSTDLIB = None
+cargo:rustc-link-lib=stdc++

@@ -337,6 +337,7 @@ fn ball_collision(
     }
 }
 
+// Generar pantalla vacía
 #[wasm_bindgen]
 pub fn run() {
     let mut app = App::build();

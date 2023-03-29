@@ -1,0 +1,13 @@
+/home/oscar/GitHub/rust_game/rust-pong/target/debug/deps/libbevy_derive-c71d9a3f2d05b858.so: /home/oscar/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_derive-0.5.0/src/lib.rs /home/oscar/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_derive-0.5.0/src/app_plugin.rs /home/oscar/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_derive-0.5.0/src/bevy_main.rs /home/oscar/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_derive-0.5.0/src/bytes.rs /home/oscar/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_derive-0.5.0/src/modules.rs /home/oscar/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_derive-0.5.0/src/render_resource.rs /home/oscar/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_derive-0.5.0/src/render_resources.rs /home/oscar/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_derive-0.5.0/src/resource.rs /home/oscar/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_derive-0.5.0/src/shader_defs.rs
+
+/home/oscar/GitHub/rust_game/rust-pong/target/debug/deps/bevy_derive-c71d9a3f2d05b858.d: /home/oscar/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_derive-0.5.0/src/lib.rs /home/oscar/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_derive-0.5.0/src/app_plugin.rs /home/oscar/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_derive-0.5.0/src/bevy_main.rs /home/oscar/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_derive-0.5.0/src/bytes.rs /home/oscar/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_derive-0.5.0/src/modules.rs /home/oscar/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_derive-0.5.0/src/render_resource.rs /home/oscar/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_derive-0.5.0/src/render_resources.rs /home/oscar/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_derive-0.5.0/src/resource.rs /home/oscar/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_derive-0.5.0/src/shader_defs.rs
+
+/home/oscar/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_derive-0.5.0/src/lib.rs:
+/home/oscar/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_derive-0.5.0/src/app_plugin.rs:
+/home/oscar/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_derive-0.5.0/src/bevy_main.rs:
+/home/oscar/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_derive-0.5.0/src/bytes.rs:
+/home/oscar/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_derive-0.5.0/src/modules.rs:
+/home/oscar/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_derive-0.5.0/src/render_resource.rs:
+/home/oscar/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_derive-0.5.0/src/render_resources.rs:
+/home/oscar/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_derive-0.5.0/src/resource.rs:
+/home/oscar/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_derive-0.5.0/src/shader_defs.rs:

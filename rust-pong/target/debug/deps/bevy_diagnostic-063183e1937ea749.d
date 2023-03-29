@@ -1,0 +1,9 @@
+/home/oscar/GitHub/rust_game/rust-pong/target/debug/deps/bevy_diagnostic-063183e1937ea749.rmeta: /home/oscar/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_diagnostic-0.5.0/src/lib.rs /home/oscar/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_diagnostic-0.5.0/src/diagnostic.rs /home/oscar/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_diagnostic-0.5.0/src/entity_count_diagnostics_plugin.rs /home/oscar/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_diagnostic-0.5.0/src/frame_time_diagnostics_plugin.rs /home/oscar/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_diagnostic-0.5.0/src/log_diagnostics_plugin.rs
+
+/home/oscar/GitHub/rust_game/rust-pong/target/debug/deps/bevy_diagnostic-063183e1937ea749.d: /home/oscar/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_diagnostic-0.5.0/src/lib.rs /home/oscar/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_diagnostic-0.5.0/src/diagnostic.rs /home/oscar/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_diagnostic-0.5.0/src/entity_count_diagnostics_plugin.rs /home/oscar/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_diagnostic-0.5.0/src/frame_time_diagnostics_plugin.rs /home/oscar/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_diagnostic-0.5.0/src/log_diagnostics_plugin.rs
+
+/home/oscar/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_diagnostic-0.5.0/src/lib.rs:
+/home/oscar/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_diagnostic-0.5.0/src/diagnostic.rs:
+/home/oscar/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_diagnostic-0.5.0/src/entity_count_diagnostics_plugin.rs:
+/home/oscar/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_diagnostic-0.5.0/src/frame_time_diagnostics_plugin.rs:
+/home/oscar/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_diagnostic-0.5.0/src/log_diagnostics_plugin.rs:

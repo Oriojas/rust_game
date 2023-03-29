@@ -1,0 +1,13 @@
+/home/oscar/GitHub/rust_game/rust-pong/target/debug/deps/erased_serde-f3220617630773fa.rmeta: /home/oscar/.cargo/registry/src/github.com-1ecc6299db9ec823/erased-serde-0.3.25/src/lib.rs /home/oscar/.cargo/registry/src/github.com-1ecc6299db9ec823/erased-serde-0.3.25/src/macros.rs /home/oscar/.cargo/registry/src/github.com-1ecc6299db9ec823/erased-serde-0.3.25/src/any.rs /home/oscar/.cargo/registry/src/github.com-1ecc6299db9ec823/erased-serde-0.3.25/src/de.rs /home/oscar/.cargo/registry/src/github.com-1ecc6299db9ec823/erased-serde-0.3.25/src/error.rs /home/oscar/.cargo/registry/src/github.com-1ecc6299db9ec823/erased-serde-0.3.25/src/features_check/mod.rs /home/oscar/.cargo/registry/src/github.com-1ecc6299db9ec823/erased-serde-0.3.25/src/map.rs /home/oscar/.cargo/registry/src/github.com-1ecc6299db9ec823/erased-serde-0.3.25/src/ser.rs /home/oscar/.cargo/registry/src/github.com-1ecc6299db9ec823/erased-serde-0.3.25/src/private.rs
+
+/home/oscar/GitHub/rust_game/rust-pong/target/debug/deps/erased_serde-f3220617630773fa.d: /home/oscar/.cargo/registry/src/github.com-1ecc6299db9ec823/erased-serde-0.3.25/src/lib.rs /home/oscar/.cargo/registry/src/github.com-1ecc6299db9ec823/erased-serde-0.3.25/src/macros.rs /home/oscar/.cargo/registry/src/github.com-1ecc6299db9ec823/erased-serde-0.3.25/src/any.rs /home/oscar/.cargo/registry/src/github.com-1ecc6299db9ec823/erased-serde-0.3.25/src/de.rs /home/oscar/.cargo/registry/src/github.com-1ecc6299db9ec823/erased-serde-0.3.25/src/error.rs /home/oscar/.cargo/registry/src/github.com-1ecc6299db9ec823/erased-serde-0.3.25/src/features_check/mod.rs /home/oscar/.cargo/registry/src/github.com-1ecc6299db9ec823/erased-serde-0.3.25/src/map.rs /home/oscar/.cargo/registry/src/github.com-1ecc6299db9ec823/erased-serde-0.3.25/src/ser.rs /home/oscar/.cargo/registry/src/github.com-1ecc6299db9ec823/erased-serde-0.3.25/src/private.rs
+
+/home/oscar/.cargo/registry/src/github.com-1ecc6299db9ec823/erased-serde-0.3.25/src/lib.rs:
+/home/oscar/.cargo/registry/src/github.com-1ecc6299db9ec823/erased-serde-0.3.25/src/macros.rs:
+/home/oscar/.cargo/registry/src/github.com-1ecc6299db9ec823/erased-serde-0.3.25/src/any.rs:
+/home/oscar/.cargo/registry/src/github.com-1ecc6299db9ec823/erased-serde-0.3.25/src/de.rs:
+/home/oscar/.cargo/registry/src/github.com-1ecc6299db9ec823/erased-serde-0.3.25/src/error.rs:
+/home/oscar/.cargo/registry/src/github.com-1ecc6299db9ec823/erased-serde-0.3.25/src/features_check/mod.rs:
+/home/oscar/.cargo/registry/src/github.com-1ecc6299db9ec823/erased-serde-0.3.25/src/map.rs:
+/home/oscar/.cargo/registry/src/github.com-1ecc6299db9ec823/erased-serde-0.3.25/src/ser.rs:
+/home/oscar/.cargo/registry/src/github.com-1ecc6299db9ec823/erased-serde-0.3.25/src/private.rs:

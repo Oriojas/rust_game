@@ -1,0 +1,13 @@
+/home/oscar/GitHub/rust_game/rust-pong/target/debug/deps/tracing-d5921c4e7da8ce30.rmeta: /home/oscar/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.36/src/lib.rs /home/oscar/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.36/src/macros.rs /home/oscar/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.36/src/dispatcher.rs /home/oscar/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.36/src/field.rs /home/oscar/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.36/src/instrument.rs /home/oscar/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.36/src/level_filters.rs /home/oscar/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.36/src/span.rs /home/oscar/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.36/src/stdlib.rs /home/oscar/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.36/src/subscriber.rs
+
+/home/oscar/GitHub/rust_game/rust-pong/target/debug/deps/tracing-d5921c4e7da8ce30.d: /home/oscar/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.36/src/lib.rs /home/oscar/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.36/src/macros.rs /home/oscar/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.36/src/dispatcher.rs /home/oscar/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.36/src/field.rs /home/oscar/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.36/src/instrument.rs /home/oscar/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.36/src/level_filters.rs /home/oscar/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.36/src/span.rs /home/oscar/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.36/src/stdlib.rs /home/oscar/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.36/src/subscriber.rs
+
+/home/oscar/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.36/src/lib.rs:
+/home/oscar/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.36/src/macros.rs:
+/home/oscar/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.36/src/dispatcher.rs:
+/home/oscar/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.36/src/field.rs:
+/home/oscar/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.36/src/instrument.rs:
+/home/oscar/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.36/src/level_filters.rs:
+/home/oscar/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.36/src/span.rs:
+/home/oscar/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.36/src/stdlib.rs:
+/home/oscar/.cargo/registry/src/github.com-1ecc6299db9ec823/tracing-0.1.36/src/subscriber.rs:

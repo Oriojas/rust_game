@@ -1,0 +1,12 @@
+/home/oscar/GitHub/rust_game/rust-pong/target/debug/deps/bevy_tasks-9b618c8973f77bfc.rmeta: /home/oscar/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_tasks-0.5.0/src/lib.rs /home/oscar/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_tasks-0.5.0/src/slice.rs /home/oscar/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_tasks-0.5.0/src/task.rs /home/oscar/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_tasks-0.5.0/src/task_pool.rs /home/oscar/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_tasks-0.5.0/src/usages.rs /home/oscar/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_tasks-0.5.0/src/countdown_event.rs /home/oscar/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_tasks-0.5.0/src/iter/mod.rs /home/oscar/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_tasks-0.5.0/src/iter/adapters.rs
+
+/home/oscar/GitHub/rust_game/rust-pong/target/debug/deps/bevy_tasks-9b618c8973f77bfc.d: /home/oscar/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_tasks-0.5.0/src/lib.rs /home/oscar/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_tasks-0.5.0/src/slice.rs /home/oscar/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_tasks-0.5.0/src/task.rs /home/oscar/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_tasks-0.5.0/src/task_pool.rs /home/oscar/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_tasks-0.5.0/src/usages.rs /home/oscar/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_tasks-0.5.0/src/countdown_event.rs /home/oscar/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_tasks-0.5.0/src/iter/mod.rs /home/oscar/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_tasks-0.5.0/src/iter/adapters.rs
+
+/home/oscar/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_tasks-0.5.0/src/lib.rs:
+/home/oscar/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_tasks-0.5.0/src/slice.rs:
+/home/oscar/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_tasks-0.5.0/src/task.rs:
+/home/oscar/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_tasks-0.5.0/src/task_pool.rs:
+/home/oscar/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_tasks-0.5.0/src/usages.rs:
+/home/oscar/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_tasks-0.5.0/src/countdown_event.rs:
+/home/oscar/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_tasks-0.5.0/src/iter/mod.rs:
+/home/oscar/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_tasks-0.5.0/src/iter/adapters.rs:
